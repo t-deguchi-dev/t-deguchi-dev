@@ -1,4 +1,10 @@
-## Hi there 👋
+## About
+現在は学習用としてGitHubを利用しています。
+
+## Note
+このアカウントは最近作成したものです。
+今後、学習内容や簡単なアウトプットを追加していく予定です。
+
 
 <!--
 **t-deguchi-dev/t-deguchi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
